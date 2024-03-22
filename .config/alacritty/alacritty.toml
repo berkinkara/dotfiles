@@ -1,0 +1,11 @@
+
+import = [
+    "~/.config/alacritty/themes/themes/atom_one_light.toml"
+]
+
+[window]
+padding = { x = 5, y = 5 }
+
+[font]
+normal = { family = "MesloLGS NF", style = "Regular" }
+size = 18
